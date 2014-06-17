@@ -1,3 +1,8 @@
+##---------------R Programming Assignment-2 ---------------------
+##---------------By Muddsair Sharif------------------------------
+##---------------R Programming Assignment-2 ---------------------
+
+
 ## Put comments here that give an overall description of what your
 ## functions do
 
